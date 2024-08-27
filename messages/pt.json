@@ -1,0 +1,103 @@
+{
+  "Skeleton": {
+    "look-source-code": "Olhe o código fonte deste portfólio"
+  },
+  "LanguageSwitcher": {
+    "en": "Inglês",
+    "pt": "Português"
+  },
+  "Introduction": {
+    "role": "Desenvolvedor Full Stack"
+  },
+  "Navigation": {
+    "about": "Sobre",
+    "experience": "Experiência",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "resume": "Currículo"
+  },
+  "About": {
+    "first-paragraph": " Meu nome é Douglas Junior, tenho 20 anos e sou um desenvolvedor full stack apaixonado por tecnologia. Lembro-me de sempre questionar como os programas e jogos funcionavam. Essa curiosidade me levou a mergulhar no mundo da programação, onde descobri o quão fascinante é transformar ideias em realidade através dos meus códigos.",
+    "second-paragraph": "Ao longo dos anos, tive a oportunidade de trabalhar em diversas frentes, desde a criação de interfaces dinâmicas e responsivas até o desenvolvimento de APIs. Cada projeto trouxe novos desafios e aprendizados, me moldando como um desenvolvedor full stack capaz de lidar com diversas tecnologias e demandas."
+  },
+  "Experience": {
+    "present": "presente",
+    "0": {
+      "title": "Desenvolvedor Full stack",
+      "resume": "Em minha função como freelancer, utilizei diversas tecnologias para entregar soluções completas. Estabeleci canais de comunicação claros com os clientes para garantir que seus objetivos fossem atendidos com precisão. Meu trabalho incluiu o desenvolvimento de dashboards interativos com D3.js, que permitiram uma representação sofisticada de dados visuais através de diversos tipos de gráficos. Criei um mapa interativo detalhado dos Estados Unidos para apresentar dados críticos de forma eficaz. Além disso, desenvolvi aplicativos móveis usando React Native com Expo, integrando-os com APIs personalizadas para atender a requisitos de projeto únicos. Assegurei que os sites fossem totalmente responsivos, proporcionando uma experiência de usuário ideal em todos os dispositivos e tamanhos de tela. Minha experiência em deploy inclui o gerenciamento de projetos no Azure e Digital Ocean, utilizando Docker para otimizar processos de containerização e deploy."
+    },
+    "1": {
+      "title": "Desenvolvedor Full stack",
+      "resume": "Na Bluepaper, lidero o desenvolvimento de interfaces web dinâmicas usando Next.js, com foco em componentes reutilizáveis e estilo avançado com Tailwind CSS. Meus projetos incluíram a criação de PDFs interativos com ReactPDF, o que aprimorou a apresentação de documentos e permitiu personalização. Também desenvolvi um sistema de e-mail usando React e react-email, integrando-o com PDFs interativos para facilitar a comunicação eficiente. Um dos meus principais destaques foi a criação de uma interface integrada com o Mapbox para um jogo de metaverso, permitindo aos usuários comprar espaços virtuais via MetaMask. Fui responsável também pela configuração de recursos e gerenciamento de deploys utilizando Docker, supervisionando o deploy dos componentes front-end, API e banco de dados. Além disso, liderei projetos com Adonis.js, desenvolvendo código boilerplate para padronizar o desenvolvimento de APIs e melhorar a eficiência dos projetos."
+    },
+    "2": {
+      "title": "Desenvolvedor Frontend",
+      "resume": "Durante meu tempo na SmartNX, desempenhei um papel fundamental na implementação de funcionalidades complexas, como gestão de histórias, versionamento de conteúdo e exibição de notícias. Fui essencial na modernização do design do sistema para melhorar a experiência do usuário e a usabilidade. Minha colaboração com a equipe ágil foi guiada pela metodologia Scrum, garantindo processos de desenvolvimento eficientes e coordenação eficaz da equipe. Gerenciei meticulosamente as tarefas de desenvolvimento, incluindo a priorização de funcionalidades e o monitoramento do progresso, o que contribuiu para a conclusão bem-sucedida dos projetos e otimização dos fluxos de trabalho."
+    },
+    "3": {
+      "title": "Desenvolvedor Angular",
+      "resume": "Na BocaVox, fui responsável pelo desenvolvimento contínuo e manutenção do sistema interno utilizando Angular. Minha função envolveu comunicação diária em inglês para garantir a colaboração eficaz com a equipe internacional. Implementei com sucesso a metodologia Scrum para gerenciar projetos de forma eficiente e alinhada aos objetivos. Minhas contribuições incluíram o desenvolvimento de componentes dinâmicos que melhoraram a flexibilidade e adaptabilidade do sistema. Fui proativo na identificação e resolução de bugs, o que foi crucial para manter a estabilidade do sistema e proporcionar uma experiência de usuário consistente. Meu trabalho assegurou que o sistema interno permanecesse robusto e confiável, apoiando efetivamente as necessidades operacionais da empresa."
+    }
+  },
+  "Skills": {
+    "0": {
+      "title": "Next.js",
+      "description": "Com 4 anos de experiência, desenvolvo sites dinâmicos e rápidos, aproveitando a renderização no servidor para otimizar o desempenho e SEO. Criei interfaces interativas e dashboards com foco na experiência do usuário, incorporando componentes reutilizáveis e eficientes."
+    },
+    "1": {
+      "title": "React.js",
+      "description": "Minha especialização em front-end inclui a criação de interfaces modernas e responsivas. Desenvolvo aplicações com componentes dinâmicos e integração de APIs, garantindo uma experiência de usuário fluida e intuitiva, além de sistemas de e-mail interativos."
+    },
+    "2": {
+      "title": "Tailwind CSS",
+      "description": "Utilizo essa ferramenta para estilizar aplicações, garantindo consistência e personalização rápida. Com ela, crio designs modernos e responsivos, adaptando layouts para diferentes dispositivos, sendo essencial na construção de interfaces dinâmicas e dashboards customizados."
+    },
+    "3": {
+      "title": "Styled Components",
+      "description": "A escrita de CSS diretamente em JavaScript facilita a manutenção de estilos em aplicações React. Isso garante a modularidade e reutilização de estilos, essencial para a eficiência no desenvolvimento de projetos front-end."
+    },
+    "4": {
+      "title": "TypeScript",
+      "description": "Desenvolvo aplicações mais seguras e robustas, utilizando tipagem estática para evitar erros comuns de desenvolvimento. Essa linguagem é aplicada tanto no back-end quanto no front-end, assegurando que o código seja mais fácil de manter e escalar."
+    },
+    "5": {
+      "title": "Node.js",
+      "description": "No back-end, construo sistemas escaláveis e performáticos, criando APIs robustas que servem como base para aplicações front-end e mobile. Minha experiência inclui desde a concepção até a implementação de sistemas completos, utilizando frameworks como Adonis.js."
+    },
+    "6": {
+      "title": "Adonis.js",
+      "description": "Framework que uso para criar APIs estruturadas e robustas, servindo de boilerplate para projetos futuros. Permite desenvolver backends escaláveis, aplicando padrões que facilitam a integração com front-end e mobile, garantindo segurança e performance."
+    },
+    "7": {
+      "title": "Docker",
+      "description": "Ferramenta essencial para containerização de aplicações, facilitando o desenvolvimento e deploy em ambientes isolados. Ela garante que todo o ambiente de desenvolvimento seja replicável, crucial para a consistência entre ambientes."
+    },
+    "8": {
+      "title": "D3.js",
+      "description": "Desenvolvo dashboards interativos e gráficos dinâmicos, facilitando a visualização de dados complexos. Criei mapas e gráficos interativos, como um mapa dos EUA com dados visuais, que melhoram a compreensão e tomada de decisões com base em dados."
+    },
+    "9": {
+      "title": "React Native",
+      "description": "Com foco em aplicativos móveis, garanto uma experiência nativa para iOS e Android. Integro APIs customizadas em apps criados com Expo, adaptando a funcionalidade para atender às necessidades específicas de cada projeto, sempre com foco na responsividade."
+    },
+    "10": {
+      "title": "Expo.go",
+      "description": "Ferramenta que acelera o desenvolvimento de aplicativos React Native, facilitando o teste e deploy. Permite criar, testar e lançar aplicativos móveis com agilidade, focando na funcionalidade e design sem complicações."
+    },
+    "11": {
+      "title": "Azure",
+      "description": "Tenho experiência em deploy de aplicações na nuvem, configurando e gerenciando recursos para garantir que os sistemas estejam disponíveis, escaláveis e seguros, desde o front-end até o banco de dados, integrando APIs e serviços de forma eficiente."
+    },
+    "12": {
+      "title": "Digital Ocean",
+      "description": "Servidor cloud onde faço o deploy de aplicações, configurando ambientes de produção robustos. Com ele, asseguro que o deploy seja feito de forma eficiente, gerenciando recursos e otimizando o desempenho dos sistemas."
+    }
+  },
+  "Contacts": {
+    "phone": "Telefone"
+  },
+  "Resume": {
+    "download": "Baixar"
+  }
+}

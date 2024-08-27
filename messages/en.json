@@ -1,0 +1,103 @@
+{
+  "Skeleton": {
+    "look-source-code": "Look at the source code of this portfolio"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "pt": "Portuguese"
+  },
+  "Introduction": {
+    "role": " Full Stack Developer"
+  },
+  "Navigation": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "About": {
+    "first-paragraph": "My name is Douglas Junior, I am 20 years old, and I am a full stack developer passionate about technology. I remember always questioning how programs and games worked. This curiosity led me to dive into the world of programming, where I discovered how fascinating it is to turn ideas into reality through my code.",
+    "second-paragraph": "Over the years, I have had the opportunity to work in various areas, from creating dynamic and responsive interfaces to developing APIs. Each project brought new challenges and learning experiences, shaping me into a full stack developer capable of handling various technologies and demands."
+  },
+  "Experience": {
+    "present": "present",
+    "0": {
+      "title": "Full stack developer",
+      "resume": "In my freelance role, I have leveraged various technologies to deliver comprehensive solutions. I established clear communication channels with clients to ensure that their objectives were met precisely. My work included developing interactive dashboards with D3.js, which allowed for sophisticated visual data representation through diverse chart types. I created a detailed interactive map of the United States to present critical data effectively. Additionally, I developed mobile applications using React Native with Expo, integrating these with custom APIs to meet unique project requirements. I ensured that websites were fully responsive, providing an optimal user experience across all devices and screen sizes. My deployment experience includes managing projects on Azure and Digital Ocean, utilizing Docker to streamline containerization and deployment processes."
+    },
+    "1": {
+      "title": "Full stack developer",
+      "resume": "At Bluepaper, I spearheaded the development of dynamic web interfaces using Next.js, focusing on reusable components and advanced styling with Tailwind CSS. My projects included the creation of interactive PDFs with ReactPDF, which enhanced document presentation and allowed for customization. I also built an email system using React and react-email, integrating it with interactive PDFs to facilitate efficient communication. One of my notable achievements was designing an interface integrated with Mapbox for a metaverse game, enabling users to purchase virtual spaces via MetaMask. I was also responsible for configuring resources and managing deployments using Docker, overseeing the deployment of front-end, API, and database components. Additionally, I led Adonis.js projects, developing boilerplate code to standardize API development and improve project efficiency."
+    },
+    "2": {
+      "title": "Frontend Developer",
+      "resume": "During my time at SmartNX, I played a key role in implementing complex features, such as managing stories, content versioning, and news display. I was instrumental in modernizing the system's design to enhance user experience and usability. My collaboration with the agile team was guided by Scrum methodology, ensuring efficient development processes and effective team coordination. I meticulously managed development tasks, including prioritizing features and monitoring progress, which contributed to the successful completion of projects and the optimization of workflows."
+    },
+    "3": {
+      "title": "Angular Developer",
+      "resume": "At BocaVox, I was responsible for the continuous development and maintenance of the internal system using Angular. My role involved daily communication in English to ensure effective collaboration with the international team. I successfully implemented Scrum methodology to manage projects efficiently and align with objectives. My contributions included developing dynamic components that enhanced the system’s flexibility and adaptability. I was proactive in identifying and resolving bugs, which was crucial for maintaining system stability and providing a consistent user experience. My work ensured that the internal system remained robust and reliable, supporting the company’s operational needs effectively."
+    }
+  },
+  "Skills": {
+    "0": {
+      "title": "Next.js",
+      "description": "With 4 years of experience, I develop dynamic and fast websites, leveraging server-side rendering to optimize performance and SEO. I have created interactive interfaces and dashboards with a focus on user experience, incorporating reusable and efficient components."
+    },
+    "1": {
+      "title": "React.js",
+      "description": "My front-end specialization includes creating modern and responsive interfaces. I develop applications with dynamic components and API integration, ensuring a smooth and intuitive user experience, as well as interactive email systems."
+    },
+    "2": {
+      "title": "Tailwind CSS",
+      "description": "I use this tool to style applications, ensuring consistency and rapid customization. With it, I create modern and responsive designs, adapting layouts for different devices, essential in building dynamic interfaces and custom dashboards."
+    },
+    "3": {
+      "title": "Styled Components",
+      "description": "Writing CSS directly in JavaScript facilitates the maintenance of styles in React applications. This ensures modularity and style reuse, essential for efficiency in front-end project development."
+    },
+    "4": {
+      "title": "TypeScript",
+      "description": "I develop more secure and robust applications using static typing to avoid common development errors. This language is applied both in the back-end and front-end, ensuring that the code is easier to maintain and scale."
+    },
+    "5": {
+      "title": "Node.js",
+      "description": "In the back-end, I build scalable and high-performance systems, creating robust APIs that serve as the foundation for front-end and mobile applications. My experience includes everything from conception to implementation of complete systems using frameworks like Adonis.js."
+    },
+    "6": {
+      "title": "Adonis.js",
+      "description": "A framework I use to create structured and robust APIs, serving as a boilerplate for future projects. It allows the development of scalable backends, applying patterns that facilitate integration with front-end and mobile, ensuring security and performance."
+    },
+    "7": {
+      "title": "Docker",
+      "description": "An essential tool for application containerization, facilitating development and deployment in isolated environments. It ensures that the entire development environment is replicable, crucial for consistency between environments."
+    },
+    "8": {
+      "title": "D3.js",
+      "description": "I develop interactive dashboards and dynamic charts, facilitating the visualization of complex data. I have created interactive maps and charts, such as a U.S. map with visual data, enhancing understanding and decision-making based on data."
+    },
+    "9": {
+      "title": "React Native",
+      "description": "With a focus on mobile applications, I ensure a native experience for iOS and Android. I integrate custom APIs into apps created with Expo, adapting functionality to meet the specific needs of each project, always with a focus on responsiveness."
+    },
+    "10": {
+      "title": "Expo.go",
+      "description": "A tool that accelerates the development of React Native apps, facilitating testing and deployment. It allows for the quick creation, testing, and launch of mobile applications, focusing on functionality and design without complications."
+    },
+    "11": {
+      "title": "Azure",
+      "description": "I have experience deploying applications in the cloud, configuring and managing resources to ensure systems are available, scalable, and secure, from front-end to database, efficiently integrating APIs and services."
+    },
+    "12": {
+      "title": "Digital Ocean",
+      "description": "A cloud server where I deploy applications, configuring robust production environments. With it, I ensure that deployment is done efficiently, managing resources and optimizing system performance."
+    }
+  },
+  "Contacts": {
+    "phone": "Phone"
+  },
+  "Resume": {
+    "download": "Download"
+  }
+}
