@@ -12,7 +12,7 @@ export default function Experience() {
       id: 0,
       title: t("0.title"),
       company: "Freelancer",
-      dateInit: "2020-01",
+      dateInit: "2023-01",
       dateEnd: t("present"),
       resume: t("0.resume"),
     },
